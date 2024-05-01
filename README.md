@@ -1,2 +1,2 @@
-# Mouse_Keybind_GUI
-A graphical user interface made with Java in Processing that allows a user to alter the key bindings of an Arduino-powered mouse.
+# Mouse Key Binding GUI
+Displays a graphical user interface with a header and ten buttons. The first two buttons, left-click and right-click, cannot be altered as they are essential to mouse function. The remaining eight buttons can be modified by first clicking a specific button on the GUI and then pressing a key on a connected keyboard. The buttons that can be modified change colors when hovered over or clicked with a mouse. This is intended to be used alongside an Arudino microcontroller.
